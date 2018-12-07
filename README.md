@@ -2,7 +2,7 @@
 
 Sources for VK Posting app.
 
-This app has over 16.000+ installs, and it was very popular among [vkontakte](https://vk.com) users (with the Google Play rating of 4.7) until VK admins had banned API_KEY and denied access to their API in April 2017. This app is no longer operating and supported, and now it's open sources under GPL.
+This app has over 17.000+ installs, and it was very popular among [vkontakte](https://vk.com) users (with the Google Play rating of 4.7) until VK admins had banned API_KEY and denied access to their API in April 2017. This app is no longer operating and supported, and now it's open sources under GPL. (UPDATE: Sources are made private permanently, by request only)
 
 <a style="margin-bottom: 0;" href='https://play.google.com/store/apps/details?id=com.orcchg.dev.maxa.vikstra'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80px"/></a>
 
